@@ -1,0 +1,17 @@
+.logo-img{
+  width: 30%;
+}
+body {
+  background: url(img/fondo.jpg);
+}
+.fondo-content{
+  background-color: #ADD8E6;
+}
+.border-right{
+  border-style: double;
+  border-width: 0px 5px 0px 0px;
+  border-color: #fff;
+}
+.logo{
+  padding: 5px;
+}
